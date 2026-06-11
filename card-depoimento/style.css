@@ -1,0 +1,20 @@
+body {
+    background-color: #f8fafc; /* Fundo acinzentado para o card branco destcar */
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Fonte serifada para depoimentos */
+}
+
+.depoimento-box {
+  width: 450px;
+  background-color: #ffffff;
+
+  /* BOX MODEL */
+  padding: 35px;
+  margin: 60px auto;
+  border: 1px solid #e2e8f0; /* Borda bem fina e elegante */
+}
+
+.aspas {
+  font-size: 60px;
+  color: #cbd5e1;
+  height: 20px; /* Truque para as aspas grandes
+}
